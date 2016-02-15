@@ -8,3 +8,4 @@ public class square {
 		return busy;
 	}
 }
+//j'ajoute ici de la documentation pour la branche hello'
