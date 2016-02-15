@@ -5,7 +5,7 @@ public class pawn {
 	private String[] tableau;
 	
 	public static void main(String[] args){
-		System.out.println("je test la branche square");
+		System.out.println("j'écris sur la branche master");
 	}
 
 			
